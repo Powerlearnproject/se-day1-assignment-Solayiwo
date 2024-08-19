@@ -61,13 +61,13 @@ Comparison
         - Waterfall: Emphasizes comprehensive documentation throughout each phase.
         - Agile: Focuses on working software over comprehensive documentation; documentation is often lighter and more flexible.
 
-  Contrast
-    - Waterfall:
-        - Large Infrastructure Projects: Projects like building critical infrastructure (e.g., an airport control system) where requirements must be clearly defined, and changes are difficult to implement              after the initial phases.
-        - Military or Aerospace Projects: Where strict adherence to standards and documentation is required, and any deviation can lead to significant issues.
-    - Agile:
-        - Mobile App Development: Where user preferences and market trends change rapidly, and continuous user feedback is critical to success.
-        - E-Commerce Platforms: Where quick iterations and frequent updates are necessary to stay competitive and respond to user needs.
+Contrast
+- Waterfall
+  - Large Infrastructure Projects: Projects like building critical infrastructure (e.g., an airport control system) where requirements must be clearly defined, and changes are difficult to implement              after the initial phases.
+  - Military or Aerospace Projects: Where strict adherence to standards and documentation is required, and any deviation can lead to significant issues.
+- Agile
+  - Mobile App Development: Where user preferences and market trends change rapidly, and continuous user feedback is critical to success.
+  - E-Commerce Platforms: Where quick iterations and frequent updates are necessary to stay competitive and respond to user needs.
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
@@ -81,15 +81,15 @@ Discuss the importance of Integrated Development Environments (IDEs) and Version
 
 Integrated Development Environments (IDEs): IDEs enhance developer productivity by integrating essential tools into one environment, providing features that help write, test, and debug code more efficiently.
 Examples:
-    - Visual Studio Code (VS Code)
-    - IntelliJ IDEA
-    - Eclipse
+- Visual Studio Code (VS Code)
+- IntelliJ IDEA
+- Eclipse
 
 Version Control Systems (VCS): VCS are essential for managing code changes, facilitating collaboration, maintaining project history, and enabling branching and merging strategies.
 Examples:
-    - Git
-    - Subversion (SVN)
-    - Mercurial
+- Git
+- Subversion (SVN)
+- Mercurial
 
     
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
@@ -123,7 +123,7 @@ Provide an example of a vague prompt and then improve it by making it clear, spe
 - Improved Prompt: "Explain the difference between lossy and lossless image compression algorithms, including their advantages, disadvantages, and typical use cases."
 
 Explanation:
-The improved prompt is more effective because it:
-    1. Specifies the Topic: It clearly distinguishes between lossy and lossless compression algorithms.
-    2. Requests Detailed Information: It asks for an explanation of advantages, disadvantages, and use cases, ensuring a comprehensive response.
-    3. Sets Expectations: It helps the responder focus on the exact aspects of the algorithms that are of interest.
+The improved prompt is more effective because it
+- Specifies the Topic: It clearly distinguishes between lossy and lossless compression algorithms.
+- Requests Detailed Information: It asks for an explanation of advantages, disadvantages, and use cases, ensuring a comprehensive response.
+- Sets Expectations: It helps the responder focus on the exact aspects of the algorithms that are of interest.
