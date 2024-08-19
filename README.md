@@ -45,19 +45,19 @@ The Software Development Life Cycle (SDLC) is a structured process used for deve
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
 Comparison
-1. Process Flow
+- Process Flow
   - Waterfall: Linear and sequential; once a phase is completed, it’s difficult to revisit.
   - Agile: Iterative and cyclical; development is broken into sprints, allowing for regular reassessment and adaptation.
-2. Flexibility
+- Flexibility
   - Waterfall: Less flexible; changes are difficult to implement once the project is underway.
   - Agile: Highly flexible; designed to accommodate changes and new requirements throughout the development process.
-3. Customer Involvement
+- Customer Involvement
   - Waterfall: Customer involvement is usually concentrated at the beginning (requirements phase) and the end (delivery phase).
   - Agile: Customers are involved throughout the project, with regular reviews and feedback after each sprint.
-4. Risk Management
+- Risk Management
   - Waterfall: Higher risk if requirements change or if there are misunderstandings early on, as changes can be costly to implement later.
   - Agile: Lower risk as the project can quickly adapt to changes, and issues can be addressed incrementally.
-5. Documentation
+- Documentation
   - Waterfall: Emphasizes comprehensive documentation throughout each phase.
   - Agile: Focuses on working software over comprehensive documentation; documentation is often lighter and more flexible.
 
