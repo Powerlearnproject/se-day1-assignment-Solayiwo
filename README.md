@@ -46,28 +46,28 @@ Compare and contrast the Waterfall and Agile methodologies. Provide examples of 
 
 Comparison
     1. Process Flow:
-        ◦ Waterfall: Linear and sequential; once a phase is completed, it’s difficult to revisit.
-        ◦ Agile: Iterative and cyclical; development is broken into sprints, allowing for regular reassessment and adaptation.
+        - Waterfall: Linear and sequential; once a phase is completed, it’s difficult to revisit.
+        - Agile: Iterative and cyclical; development is broken into sprints, allowing for regular reassessment and adaptation.
     2. Flexibility:
-        ◦ Waterfall: Less flexible; changes are difficult to implement once the project is underway.
-        ◦ Agile: Highly flexible; designed to accommodate changes and new requirements throughout the development process.
+        - Waterfall: Less flexible; changes are difficult to implement once the project is underway.
+        - Agile: Highly flexible; designed to accommodate changes and new requirements throughout the development process.
     3. Customer Involvement:
-        ◦ Waterfall: Customer involvement is usually concentrated at the beginning (requirements phase) and the end (delivery phase).
-        ◦ Agile: Customers are involved throughout the project, with regular reviews and feedback after each sprint.
+        - Waterfall: Customer involvement is usually concentrated at the beginning (requirements phase) and the end (delivery phase).
+        - Agile: Customers are involved throughout the project, with regular reviews and feedback after each sprint.
     4. Risk Management:
-        ◦ Waterfall: Higher risk if requirements change or if there are misunderstandings early on, as changes can be costly to implement later.
-        ◦ Agile: Lower risk as the project can quickly adapt to changes, and issues can be addressed incrementally.
+        - Waterfall: Higher risk if requirements change or if there are misunderstandings early on, as changes can be costly to implement later.
+        - Agile: Lower risk as the project can quickly adapt to changes, and issues can be addressed incrementally.
     5. Documentation:
-        ◦ Waterfall: Emphasizes comprehensive documentation throughout each phase.
-        ◦ Agile: Focuses on working software over comprehensive documentation; documentation is often lighter and more flexible.
+        - Waterfall: Emphasizes comprehensive documentation throughout each phase.
+        - Agile: Focuses on working software over comprehensive documentation; documentation is often lighter and more flexible.
 
   Contrast
-    • Waterfall:
-        ◦ Large Infrastructure Projects: Projects like building critical infrastructure (e.g., an airport control system) where requirements must be clearly defined, and changes are difficult to implement              after the initial phases.
-        ◦ Military or Aerospace Projects: Where strict adherence to standards and documentation is required, and any deviation can lead to significant issues.
-    • Agile:
-        ◦ Mobile App Development: Where user preferences and market trends change rapidly, and continuous user feedback is critical to success.
-        ◦ E-Commerce Platforms: Where quick iterations and frequent updates are necessary to stay competitive and respond to user needs.
+    - Waterfall:
+        - Large Infrastructure Projects: Projects like building critical infrastructure (e.g., an airport control system) where requirements must be clearly defined, and changes are difficult to implement              after the initial phases.
+        - Military or Aerospace Projects: Where strict adherence to standards and documentation is required, and any deviation can lead to significant issues.
+    - Agile:
+        - Mobile App Development: Where user preferences and market trends change rapidly, and continuous user feedback is critical to success.
+        - E-Commerce Platforms: Where quick iterations and frequent updates are necessary to stay competitive and respond to user needs.
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
@@ -81,15 +81,15 @@ Discuss the importance of Integrated Development Environments (IDEs) and Version
 
 Integrated Development Environments (IDEs): IDEs enhance developer productivity by integrating essential tools into one environment, providing features that help write, test, and debug code more efficiently.
 Examples:
-    • Visual Studio Code (VS Code)
-    • IntelliJ IDEA
-    • Eclipse
+    - Visual Studio Code (VS Code)
+    - IntelliJ IDEA
+    - Eclipse
 
 Version Control Systems (VCS): VCS are essential for managing code changes, facilitating collaboration, maintaining project history, and enabling branching and merging strategies.
 Examples:
-    • Git
-    • Subversion (SVN)
-    • Mercurial
+    - Git
+    - Subversion (SVN)
+    - Mercurial
 
     
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
@@ -119,8 +119,9 @@ Importance of interaction with AI models: Prompt engineering is crucial in inter
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
-Vague Prompt: "Tell me about the image compression algorithms."
-Improved Prompt: "Explain the difference between lossy and lossless image compression algorithms, including their advantages, disadvantages, and typical use cases."
+- Vague Prompt: "Tell me about the image compression algorithms."
+- Improved Prompt: "Explain the difference between lossy and lossless image compression algorithms, including their advantages, disadvantages, and typical use cases."
+
 Explanation:
 The improved prompt is more effective because it:
     1. Specifies the Topic: It clearly distinguishes between lossy and lossless compression algorithms.
